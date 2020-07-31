@@ -10,17 +10,13 @@ export default {
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
   */
-  target: 'static',
-
-  router: {
-    base: '/carlosquiroz/'
-  },
+  target: 'server',
   /*
   ** Headers of the page
   ** See https://nuxtjs.org/api/configuration-head
   */
   head: {
-    titleTemplate: '%s - ' + process.env.npm_package_name,
+    titleTemplate: 'Carlos Quiroz ☕️',
     title: process.env.npm_package_name || '',
     meta: [
       { charset: 'utf-8' },
