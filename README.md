@@ -1,3 +1,3 @@
 # Carlos Quiroz 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quirozcarlos&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quirozcarlos&layout=compact)](https://github.com/quirozcarlos)
