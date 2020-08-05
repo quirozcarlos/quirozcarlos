@@ -5,7 +5,7 @@
         h1.font-weight-thin.mb-4
           | > Carlos Quiroz
         h1.font-weight-thin.mb-4
-          | - Full Stack developer
+          | - Full Stack Developer
 </template>
 
 <script>
