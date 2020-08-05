@@ -42,12 +42,12 @@ export default {
         },
         {
           icon: 'mdi-information-outline',
-          title: 'About',
+          title: 'About me',
           to: '/about'
         },
         {
           icon: 'mdi-account-box',
-          title: 'Contact',
+          title: 'Contact me',
           to: '/contact'
         }
       ],

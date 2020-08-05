@@ -1,12 +1,12 @@
 <template lang="pug">
   .social-media
-    a(href='https://github.com/quirozcarlos' target="_blank")
+    a(href='https://github.com/quirozcarlos', target="_blank")
       v-icon(:size="size") mdi-github
-    a(href='https://www.linkedin.com/in/quirozvcarlos/' target="_blank")
+    a(href='https://www.linkedin.com/in/quirozvcarlos/', target="_blank")
       v-icon(:size="size") mdi-linkedin
-    a(href='https://twitter.com/quirozvcarlos' target="_blank")
+    a(href='https://twitter.com/quirozvcarlos', target="_blank")
       v-icon(:size="size") mdi-twitter
-    a(href='mailto:quirozvcarlos@gmail.com' target="_blank")
+    a(href='mailto:quirozvcarlos@gmail.com', target="_blank")
       v-icon(:size="size") mdi-email
 </template>
 
@@ -31,6 +31,9 @@ export default {
   a {
     margin-left: 5px;
     text-decoration: none;
+    &:hover {
+      transform: scale(1.2);
+    }
   }
 }
 </style>

@@ -1,14 +1,26 @@
 <template lang="pug">
-  v-parallax(height='500' src='https://cdn.vuetifyjs.com/images/parallax/material.jpg')
-    v-row(align='center' justify='center')
-      v-col.text-center(cols='12')
-        h1.display-1.font-weight-thin.mb-4
-          | Hi 👋
+  v-row(align="center" justify="center" style="height: 50vh")
+    v-col(align="center" cols='12')
+      .wrapper
+        h1.font-weight-thin.mb-4
+          | > Carlos Quiroz
+        h1.font-weight-thin.mb-4
+          | - Full Stack developer
 </template>
 
 <script>
 export default {
-  name: 'Index',
-  components: {}
+  name: 'Index'
 }
 </script>
+
+<style lang="scss" scoped>
+.wrapper {
+  width: 220px;
+  display: flex;
+  flex-wrap: wrap;
+  h1 {
+    font-size: 22px;
+  }
+}
+</style>
