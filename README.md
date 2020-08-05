@@ -1,4 +1,4 @@
-Carlos Quiroz
+#### Carlos Quiroz
 
 I'm full Stack Developer with +3 Years of experience worked with JS related technologies such as React, Vue, NuxtJS, and PHP technologies like Laravel.
 
