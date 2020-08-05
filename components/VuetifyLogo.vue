@@ -2,7 +2,7 @@
   <img
     class="VuetifyLogo"
     alt="Vuetify Logo"
-    src="/carlosquiroz/vuetify-logo.svg"
+    src="/quirozcarlos/vuetify-logo.svg"
   >
 </template>
 

@@ -13,7 +13,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/carlosquiroz/'
+    base: '/quirozcarlos/'
   },
   /*
   ** Headers of the page
@@ -28,7 +28,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/carlosquiroz/favicon.ico?' }
+      { rel: 'icon', type: 'image/x-icon', href: '/quirozcarlos/favicon.ico?' }
     ]
   },
   /*
