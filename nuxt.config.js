@@ -12,9 +12,9 @@ export default {
   */
   target: 'static',
 
-  router: {
-    base: '/quirozcarlos/'
-  },
+  // router: {
+  //   base: '/quirozcarlos/'
+  // },
   /*
   ** Headers of the page
   ** See https://nuxtjs.org/api/configuration-head
