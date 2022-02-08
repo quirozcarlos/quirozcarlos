@@ -6,7 +6,7 @@
 <p align="left">
   <img src="https://devopedia.org/images/article/146/5346.1548521013.png" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>&nbsp;&nbsp;
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="40" height="40"/> -->
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </p>
 
 <h3 align="left">Frontend Development</h3>
