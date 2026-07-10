@@ -5,7 +5,7 @@
   
   <p>
     Building scalable ecosystems for <b>FoodTech, POS & E-commerce</b>. <br/>
-    Specialized in <b>React, React Native & High-performance Architectures</b>.
+    Specialized in <b>React, React Native, High-performance Architectures</b> & <b>AI-Assisted Workflows</b>.
   </p>
 
   <br/>
@@ -34,7 +34,7 @@
   <br/><br/>
 
   <p><b>Backend, Database & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb,firebase,gcp,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb,firebase,supabase,gcp,cloudflare,vercel&theme=dark" />
 
   <br/><br/>
 
@@ -48,5 +48,5 @@
 <br/>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> 👨‍💻
+  <i>When I'm not coding, you can probably find me swimming, analyzing table tennis techniques or traveling around the world</i> 🏊‍♂️🏓✈️
 </p>
