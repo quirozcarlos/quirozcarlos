@@ -48,5 +48,5 @@
 <br/>
 
 <p align="center">
-  <i>When I'm not coding, you can probably find me swimming, analyzing table tennis techniques or traveling around the world</i> 🏊‍♂️🏓✈️
+  <i>When I'm not coding, you can probably find me swimming, analyzing table tennis techniques or traveling around the world</i> 🏓✈️
 </p>
